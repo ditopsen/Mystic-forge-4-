@@ -1,0 +1,13 @@
+Steel Promise es un juego de plataformas y acción de estilo retro en pixel art que combina narrativa, progresión por niveles y mecánicas dinámicas de supervivencia.
+
+La historia sigue a un protagonista que caminaba con su amada intercambiando una promesa eterna hasta que el cielo se desgarró, abriendo un misterioso portal que los teletransportó y separó, obligándolo a ascender por una torre peligrosa para encontrarla. La jugabilidad se desarrolla a lo largo de 10 niveles progresivos donde el objetivo es escalar plataformas flotantes y ruinas, esquivar proyectiles ambientales y eliminar enemigos hasta alcanzar el portal final de cada fase.
+
+El sistema de movimiento incluye desplazamiento lateral, doble salto en el aire y un sistema de gravedad que penaliza las caídas al vacío provocando pérdida de vida y reinicio de posición. Para la defensa y el ataque, el jugador dispone de un sistema de espada mediante clics del ratón para derrotar zombis en las plataformas, y un escudo protector activado con la tecla [E] capaz de absorber hasta 5 impactos antes de requerir un tiempo de enfriamiento de 10 segundos. Finalmente, el juego ofrece tres modos de dificultad seleccionables en el menú principal: Easy con 40 vidas, Normal con 10 vidas y Hardcore con solo 3 vidas.
+
+
+que plataforma se va usar?
+-celular y pc
+que lenguaje de programación?
+-htaml, java script, css
+que motor de de programcion va usar?
+-html
